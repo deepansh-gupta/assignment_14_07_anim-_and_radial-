@@ -1,0 +1,6 @@
+github assignment 
+
+Today we have learnt animation and radial
+
+animation in html and css - how to change the state of color 
+radial in html and css - how to visiualize different color in radial form 
